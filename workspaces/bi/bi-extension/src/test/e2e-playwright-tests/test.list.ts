@@ -90,7 +90,6 @@ test.describe(typeDiagramArtifact); // TODO: Fix this test
 test.describe(connectionArtifact);
 test.describe(configuration);
 
-test.describe(configuration);
 test.describe(typeTest);
 
 test.afterAll(async () => {
